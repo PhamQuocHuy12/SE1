@@ -4,7 +4,6 @@ package a2_1801040104;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 import java.util.Vector;
-import java.lang.Comparable;
 import utils.DOpt;
 import utils.DomainConstraint;
 import utils.EmptyException;
